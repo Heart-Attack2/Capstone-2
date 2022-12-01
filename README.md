@@ -1,5 +1,4 @@
-# Capstone-2
-
+# Heart Attack Prediction
 
 Project with a web interface to assess the chances of death  by heart attack. 
 
@@ -14,3 +13,7 @@ Project with a web interface to assess the chances of death  by heart attack.
 - Random Forest
 - K Nearest Neighbour
 - Logistic Regression
+
+
+
+
